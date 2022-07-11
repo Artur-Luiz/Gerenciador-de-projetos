@@ -1,6 +1,6 @@
 <?php
 
-include('../connection.php');
+include('connection.php');
 
 $projectname = $_POST['projectname'];
 $startproject = $_POST['startproject'];

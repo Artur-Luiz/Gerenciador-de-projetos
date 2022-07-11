@@ -1,6 +1,6 @@
 <?php
 
-include('../connection.php');
+include('connection.php');
 
 $activityname = $_POST['activityname'];
 $id_project = $_POST['id_project'];

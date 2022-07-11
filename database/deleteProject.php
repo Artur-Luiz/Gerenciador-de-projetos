@@ -1,6 +1,6 @@
 <?php
 
-require('../connection.php');
+require('connection.php');
 
 $id = $_GET['id'];
 $sql = "DELETE FROM project WHERE id = $id";
