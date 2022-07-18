@@ -1,8 +1,5 @@
-# Desafio-EUAX
-Projeto com o propósito de realizar o desafio proposto pelo Grupo Euax para vaga de Desenvolvedor Web!                             
-Desafio do Artia (https://github.com/Artia/desafios-desevolvimento/blob/master/desafio-fullstack.md)
 
-Aplicação para gerenciamento de projetos, na qual deve ser adicionar projetos e atividades realacionadas ao projeto.
+Aplicação para gerenciamento de projetos, na qual deve ser adicionar projetos e atividades relacionadas ao projeto.
 
 Linguagens usadas:
 
